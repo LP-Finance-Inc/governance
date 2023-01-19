@@ -1,2 +1,2 @@
-# lpfinance-improvement-proposals
-LP Finance Improvement Proposals
+# LP Finance Improvement Proposals (LIPs)
+
