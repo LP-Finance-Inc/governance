@@ -1,2 +1,4 @@
-# LP Finance Improvement Proposals (LIPs)
+# LP Finance Governance
+
+
 
