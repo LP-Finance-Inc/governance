@@ -4,7 +4,7 @@ Date: Jan.19th 2023
 
 Author: Joohwan Lee
 
-Status: Proposed/Executed/Delayed/Defeated
+Status: Proposed/Executed/Delayed/Defeated/Passed
 
 ## Summary
 Outline a 3~5 line summary of the proposal.
